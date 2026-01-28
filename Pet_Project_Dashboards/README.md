@@ -1,3 +1,4 @@
 # Pet_Project_Dashboards
-It is a dashbord pet project in datalens.ru, which observes data about emergency facilities
-https://datalens.ru/wn09acze8if4g-avariynye-obekty-zhkh
+Дашборд по аварийному жилью
+Разработал аналитический дашборд для мониторинга состояния аварийного жилищного фонда.
+Провел первичную обработку данных, выделил ключевые показатели (количество объектов, динамика признания жилья аварийным, распределение по регионам), реализовал визуализацию в Yandex Datalens для удобства принятия управленческих решений службой ЖКХ
